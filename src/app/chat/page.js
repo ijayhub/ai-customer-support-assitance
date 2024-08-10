@@ -25,9 +25,6 @@ const Chat = () => {
 				<div>
 					{/* response container */}
 					<ResponseChat/>
-					
-
-					{/* input form box */}
 				</div>
 			</header>
 		</>
